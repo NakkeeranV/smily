@@ -1,5 +1,5 @@
-console.log("welcome to the github");
+console.log("welcome to the git course");
 
-for (var i=0;i<5;i++){
-    console.log("smily");
+for (var i=0; i<=5; i++);{
+    console.log("smily code");
 }
